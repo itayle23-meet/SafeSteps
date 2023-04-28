@@ -9,11 +9,16 @@
     android:gravity="center"
     android:background="@color/pink">
 
+    <ImageView
+        android:layout_width="331dp"
+        android:layout_height="291dp"
+        android:src="@drawable/SAFESTEPS" />
+
     <EditText
         android:id="@+id/editText_email"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:hint="email"
+        android:hint="Email"
         android:inputType="textEmailAddress"
         android:minHeight="48dp"
         tools:layout_editor_absoluteX="0dp"
@@ -23,7 +28,7 @@
         android:id="@+id/editText_password"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:hint="password"
+        android:hint="Password"
         android:inputType="textPassword"
         android:minHeight="48dp"
         tools:layout_editor_absoluteX="16dp"

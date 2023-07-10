@@ -9,10 +9,7 @@
     android:gravity="center"
     android:background="@color/pink">
 
-    <ImageView
-        android:layout_width="331dp"
-        android:layout_height="291dp"
-        android:src="@drawable/SAFESTEPS" />
+
 
     <EditText
         android:id="@+id/editText_email"

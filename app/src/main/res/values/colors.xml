@@ -7,4 +7,12 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="red">#FF0000</color>
+
+    //Final colors:
+    <color name="MainBgColor">#f0e8e0</color>
+    <color name="MainBgColor_Darker">#eadac1</color>
+    <color name="Turquoise">#9ed2c6</color>
+    <color name="LightBlue">#53bab9</color>
+
 </resources>
